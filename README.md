@@ -14,3 +14,62 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+I am JunXiang Lin, a data science from Taiwan, currently working on Taipei Neihu District. My job include data engineering, data anaylsis, machine learning...
+
+我是林均祥，一名來自台灣的資料科學家，目前就職於台北內湖區。我的工作內容包含數據工程、數據分析、機器學習...等。
+
+I am a five-year student of National Chung Cheng University (CCU), completed my bachelor's and master's degrees from 2017 to 2022, majored in Earth and Environmental science, studied in numerical simulation.
+
+我是一名國立中正大學五年一貫的學生，於2017~2022完成學士與碩士學位，主修地球與環境科學，研究以數值模擬為主。
+-->
+
+## Languages
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/-Fortran-007396?style=for-the-badge&logo=fortran&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html&logoColor=white)
+![](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+## ML/DL
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
+## Operation Skills
+
+![](https://img.shields.io/badge/-Windows-2088FF?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/-Ubuntu-E34F26?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/-Git-E37400?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<!--![](https://img.shields.io/badge/-CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)-->
+<!--![](https://img.shields.io/badge/-Nginx-269539?style=for-the-badge&logo=Nginx&logoColor=white)-->
+<!--![](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)-->
+
+## Experienced Cloud Platform
+
+![](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google%20cloud&logoColor=white)
+
+## Development Tool
+
+![](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+## Others
+
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Magento2-E34F26?style=for-the-badge&logo=Magento&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/-Multi%20Threading-4285F4?style=for-the-badge&logo=multi-thread&logoColor=white)
+![](https://img.shields.io/badge/-Multi%20Processing-4285F4?style=for-the-badge&logo=multi-process&logoColor=white)
