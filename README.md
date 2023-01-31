@@ -53,6 +53,7 @@ I am a five-year student of National Chung Cheng University (CCU), completed my 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/-Git-E37400?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/-gcloud%20CLI-2496ED?style=for-the-badge&logo=gcloud&logoColor=white)
 <!--![](https://img.shields.io/badge/-CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)-->
 <!--![](https://img.shields.io/badge/-Nginx-269539?style=for-the-badge&logo=Nginx&logoColor=white)-->
 <!--![](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)-->
