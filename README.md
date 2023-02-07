@@ -72,5 +72,5 @@ I am a five-year student of National Chung Cheng University (CCU), completed my 
 ![Apache Airflow](https://img.shields.io/badge/Magento2-E34F26?style=for-the-badge&logo=Magento&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/-Multi%20Threading-4285F4?style=for-the-badge&logo=multi-thread&logoColor=white)
-![](https://img.shields.io/badge/-Multi%20Processing-4285F4?style=for-the-badge&logo=multi-process&logoColor=white)
+![](https://img.shields.io/badge/-Multi%20Threading-71289c?style=for-the-badge&logo=multi-thread&logoColor=white)
+![](https://img.shields.io/badge/-Multi%20Processing-71289c?style=for-the-badge&logo=multi-process&logoColor=white)
