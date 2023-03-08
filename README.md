@@ -66,6 +66,12 @@ I am a five-year student of National Chung Cheng University (CCU), completed my 
 
 ![](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+## Analytics Tool
+
+![](https://img.shields.io/badge/-Google%20Analytics-d45ba7?style=for-the-badge&logo=google%20analytics&logoColor=white)
+![](https://img.shields.io/badge/-Google%20Tag%20Manager-d45ba7?style=for-the-badge&logo=google%20tag%20manager&logoColor=white)
+
+
 ## Others
 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
