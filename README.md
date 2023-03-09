@@ -32,10 +32,10 @@ I am a five-year student of National Chung Cheng University (CCU), completed my 
 ![](https://img.shields.io/badge/-Fortran-007396?style=for-the-badge&logo=fortran&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html&logoColor=white)
+![](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-## ML/DL
+## Data Science
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -53,7 +53,7 @@ I am a five-year student of National Chung Cheng University (CCU), completed my 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/-Git-E37400?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/-gcloud%20CLI-2496ED?style=for-the-badge&logo=gcloud&logoColor=white)
+![](https://img.shields.io/badge/-gcloud%20CLI-2496ED?style=for-the-badge&logo=google%20cloud&logoColor=white)
 <!--![](https://img.shields.io/badge/-CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)-->
 <!--![](https://img.shields.io/badge/-Nginx-269539?style=for-the-badge&logo=Nginx&logoColor=white)-->
 <!--![](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)-->
@@ -62,11 +62,11 @@ I am a five-year student of National Chung Cheng University (CCU), completed my 
 
 ![](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google%20cloud&logoColor=white)
 
-## Development Tool
+## Development Tools
 
 ![](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## Analytics Tool
+## Analytics Tools
 
 ![](https://img.shields.io/badge/-Google%20Analytics-d45ba7?style=for-the-badge&logo=google%20analytics&logoColor=white)
 ![](https://img.shields.io/badge/-Google%20Tag%20Manager-d45ba7?style=for-the-badge&logo=google%20tag%20manager&logoColor=white)
