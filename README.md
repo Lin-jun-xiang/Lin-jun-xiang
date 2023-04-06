@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div>
+<img src="https://komarev.com/ghpvc/?username=Lin-jun-xiang&style=flat-square&color=blue&label=views" alt="" width="10%" height="10%"/>
+</div>
+
 <!--
 **Lin-jun-xiang/Lin-jun-xiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
