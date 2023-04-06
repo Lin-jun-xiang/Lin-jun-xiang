@@ -1,6 +1,6 @@
 
 <div>
-<img src="https://github.com/Lin-jun-xiang/Lin-jun-xiang/blob/main/gif/ba412152801f0d8081e492986ab0529e.gif?raw=true" width="20%" height="20%" />
+<img src="https://github.com/Lin-jun-xiang/Lin-jun-xiang/blob/main/gif/8f422cf0cac89ea675fe949c1dcf3041.gif?raw=true" width="80%" height="80%" />
 </div>
 
 <div>
