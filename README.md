@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 <div>
-<img src="https://komarev.com/ghpvc/?username=Lin-jun-xiang&style=flat-square&color=blue&label=views" alt="" width="10%" height="10%"/>
+<img src="https://komarev.com/ghpvc/?username=Lin-jun-xiang&color=blue&label=views" alt=""/>
+<img src="https://img.shields.io/github/stars/Lin-jun-xiang?color=ff69b4" alt=""/>
 </div>
+
 
 <!--
 **Lin-jun-xiang/Lin-jun-xiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
