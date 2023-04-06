@@ -1,4 +1,7 @@
-### Hi there 👋
+
+<div>
+<img src="https://github.com/Lin-jun-xiang/Lin-jun-xiang/blob/main/gif/ba412152801f0d8081e492986ab0529e.gif?raw=true" width="20%" height="20%" />
+</div>
 
 <div>
 <img src="https://komarev.com/ghpvc/?username=Lin-jun-xiang&color=blue&label=views" alt=""/>
