@@ -29,16 +29,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-I am JunXiang Lin, a data science from Taiwan, currently working on Taipei Neihu District. My job include data engineering, data anaylsis, machine learning...
-
-我是林均祥，一名來自台灣的資料科學家，目前就職於台北內湖區。我的工作內容包含數據工程、數據分析、機器學習...等。
-
-I am a five-year student of National Chung Cheng University (CCU), completed my bachelor's and master's degrees from 2017 to 2022, majored in Earth and Environmental science, studied in numerical simulation.
-
-我是一名國立中正大學五年一貫的學生，於2017~2022完成學士與碩士學位，主修地球與環境科學，研究以數值模擬為主。
--->
-
 ## Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
