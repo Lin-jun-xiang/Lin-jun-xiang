@@ -5,7 +5,7 @@
 <img src="https://github.com/Lin-jun-xiang/Lin-jun-xiang/blob/main/gif/f8d0e52d6d72c2a4507b0c323304bd86.gif?raw=true" width="15%" height="15%" />
  
  <!-- see github-readme-stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lin-jun-xiang&layout=compact&theme=panda" width="26%" height="26%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lin-jun-xiang&layout=compact&theme=panda&hide=css" width="26%" height="26%" />
 <img src="https://github-readme-stats.vercel.app/api?username=Lin-jun-xiang&theme=panda&show_icons=true" width="34%" height="34%" />
 </div>
 
