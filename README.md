@@ -22,7 +22,7 @@
       <div style="display: flex;">
         <img width="120" alt="" src="https://count.getloli.com/get/@:Lin-jun-xiangtheme=rule34" />
         <br>
-        <img src="https://github.com/Lin-jun-xiang/Lin-jun-xiang/blob/main/gif/f8d0e52d6d72c2a4507b0c323304bd86.gif?raw=true" width="50%" height="50%" />
+        <img src="https://github.com/Lin-jun-xiang/Lin-jun-xiang/blob/main/gif/f8d0e52d6d72c2a4507b0c323304bd86.gif?raw=true" width="120" height="50%" />
       </div>
     </td>
   </tr>
