@@ -10,15 +10,15 @@
   </div>
 </div> -->
 
-<table style="border-collapse: collapse; border:none" frame = void>
-  <tr style="border:none">
-    <td style="border:none">
+<table style="border-collapse: collapse; border:none;">
+  <tr style="border-color: transparent;">
+    <td style="border-color: transparent;">
       <div style="display: flex;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lin-jun-xiang&layout=compact&theme=panda&hide=css" width="40%" height="40%" />
         <img src="https://github-readme-stats.vercel.app/api?username=Lin-jun-xiang&theme=panda&show_icons=true" width="53%" height="53%" />
       </div>
     </td>
-    <td align="right" style="border:none">
+    <td align="right" style="border-color:transparent;">
       <div style="display: flex;">
         <img width="120" alt="" src="https://count.getloli.com/get/@:Lin-jun-xiangtheme=rule34" />
         <br>
