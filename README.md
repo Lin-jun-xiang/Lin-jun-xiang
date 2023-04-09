@@ -1,17 +1,15 @@
 
+[<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:Lin-jun-xiangtheme=rule34">](https://www.youtube.com/watch?v=PqXPW0oBKgg)
+
 <div>
 <img src="https://github.com/Lin-jun-xiang/Lin-jun-xiang/blob/main/gif/f8d0e52d6d72c2a4507b0c323304bd86.gif?raw=true" width="20%" height="20%" />
 <img src="https://github.com/Lin-jun-xiang/Lin-jun-xiang/blob/main/gif/%E5%B7%A5%E7%A8%8B%E5%B8%AB%E8%B2%93%E8%B2%93.gif?raw=true" width="20%" height="20%" />
 </div>
 
 <div>
-<img src="https://komarev.com/ghpvc/?username=Lin-jun-xiang&color=blue&label=views" alt=""/>
+<!-- <img src="https://komarev.com/ghpvc/?username=Lin-jun-xiang&color=blue&label=views" alt=""/> -->
 <img src="https://img.shields.io/github/stars/Lin-jun-xiang?color=ff69b4" alt=""/>
 </div>
-
-
-
-
 
 
 <!--
