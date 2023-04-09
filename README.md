@@ -1,21 +1,37 @@
+<!-- <div style="display:flex; justify-content: space-between; align-items: center;" >
+  <div style="flex: 1;">
+    <img width="120" alt="" src="https://count.getloli.com/get/@:Lin-jun-xiangtheme=rule34" />
+    <br>
+    <img src="https://github.com/Lin-jun-xiang/Lin-jun-xiang/blob/main/gif/f8d0e52d6d72c2a4507b0c323304bd86.gif?raw=true" width="12%" height="12%" />
+  </div>
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lin-jun-xiang&layout=compact&theme=panda&hide=css" width="26%" height="26%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Lin-jun-xiang&theme=panda&show_icons=true" width="37%" height="37%" />
+  </div>
+</div> -->
 
-[<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:Lin-jun-xiangtheme=rule34">](https://www.youtube.com/watch?v=PqXPW0oBKgg)
-
-<div>
-<img src="https://github.com/Lin-jun-xiang/Lin-jun-xiang/blob/main/gif/f8d0e52d6d72c2a4507b0c323304bd86.gif?raw=true" width="15%" height="15%" />
- 
- <!-- see github-readme-stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lin-jun-xiang&layout=compact&theme=panda&hide=css" width="26%" height="26%" />
-<img src="https://github-readme-stats.vercel.app/api?username=Lin-jun-xiang&theme=panda&show_icons=true" width="34%" height="34%" />
-</div>
-
+<table style="border-collapse: collapse; border:none" frame = void>
+  <tr style="border:none">
+    <td style="border:none">
+      <div style="display: flex;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lin-jun-xiang&layout=compact&theme=panda&hide=css" width="40%" height="40%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Lin-jun-xiang&theme=panda&show_icons=true" width="53%" height="53%" />
+      </div>
+    </td>
+    <td align="right" style="border:none">
+      <div style="display: flex;">
+        <img width="120" alt="" src="https://count.getloli.com/get/@:Lin-jun-xiangtheme=rule34" />
+        <br>
+        <img src="https://github.com/Lin-jun-xiang/Lin-jun-xiang/blob/main/gif/f8d0e52d6d72c2a4507b0c323304bd86.gif?raw=true" width="50%" height="50%" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 <!-- <div> -->
 <!-- <img src="https://komarev.com/ghpvc/?username=Lin-jun-xiang&color=blue&label=views" alt=""/> -->
 <!-- <img src="https://img.shields.io/github/stars/Lin-jun-xiang?color=ff69b4" alt=""/>
 </div> -->
-
-
 ## Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
