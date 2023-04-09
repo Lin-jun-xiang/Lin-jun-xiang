@@ -2,11 +2,11 @@
 [<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:Lin-jun-xiangtheme=rule34">](https://www.youtube.com/watch?v=PqXPW0oBKgg)
 
 <div>
-<img src="https://github.com/Lin-jun-xiang/Lin-jun-xiang/blob/main/gif/f8d0e52d6d72c2a4507b0c323304bd86.gif?raw=true" width="20%" height="20%" />
-<img src="https://github.com/Lin-jun-xiang/Lin-jun-xiang/blob/main/gif/%E5%B7%A5%E7%A8%8B%E5%B8%AB%E8%B2%93%E8%B2%93.gif?raw=true" width="20%" height="20%" />
+<img src="https://github.com/Lin-jun-xiang/Lin-jun-xiang/blob/main/gif/f8d0e52d6d72c2a4507b0c323304bd86.gif?raw=true" width="15%" height="15%" />
 
-  <!-- see github-readme-stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Lin-jun-xiang&theme=panda&show_icons=true" width="40%" height="40%" />
+
+ <!-- see github-readme-stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Lin-jun-xiang&theme=panda&show_icons=true" width="35%" height="35%" />
 </div>
 
 
@@ -15,21 +15,6 @@
 <!-- <img src="https://img.shields.io/github/stars/Lin-jun-xiang?color=ff69b4" alt=""/>
 </div> -->
 
-
-<!--
-**Lin-jun-xiang/Lin-jun-xiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## Languages
 
