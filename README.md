@@ -1,38 +1,17 @@
-<!-- <div style="display:flex; justify-content: space-between; align-items: center;" >
-  <div style="flex: 1;">
-    <img width="120" alt="" src="https://count.getloli.com/get/@:Lin-jun-xiangtheme=rule34" />
-    <br>
-    <img src="https://github.com/Lin-jun-xiang/Lin-jun-xiang/blob/main/gif/f8d0e52d6d72c2a4507b0c323304bd86.gif?raw=true" width="12%" height="12%" />
-  </div>
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lin-jun-xiang&layout=compact&theme=panda&hide=css" width="26%" height="26%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Lin-jun-xiang&theme=panda&show_icons=true" width="37%" height="37%" />
-  </div>
-</div> -->
+<div style="display:flex;">
+  <img align="left" width="60%" height="50%" src="https://readme-typing-svg.demolab.com/?lines=👋+Hi+there!+I'm+JunXiang.;Welcome+to+my+profile!" />
+  <img align="right" width="20%" alt="" src="https://count.getloli.com/get/@:Lin-jun-xiangtheme=rule34" />
+</div>
 
-<table style="border-collapse: collapse; border:none;">
-  <tr style="border-color: transparent;">
-    <td style="border-color: transparent;">
-      <div style="display: flex;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lin-jun-xiang&layout=compact&theme=panda&hide=css" width="40%" height="40%" />
-        <img src="https://github-readme-stats.vercel.app/api?username=Lin-jun-xiang&theme=panda&show_icons=true" width="53%" height="53%" />
-      </div>
-    </td>
-    <td align="right" style="border-color:transparent;">
-      <div style="display: flex;">
-        <img width="50%" alt="" src="https://count.getloli.com/get/@:Lin-jun-xiangtheme=rule34" />
-        <br>
-        <img src="https://github.com/Lin-jun-xiang/Lin-jun-xiang/blob/main/gif/f8d0e52d6d72c2a4507b0c323304bd86.gif?raw=true" width="50%" height="50%" />
-      </div>
-    </td>
-  </tr>
-</table>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!-- <div> -->
-<!-- <img src="https://komarev.com/ghpvc/?username=Lin-jun-xiang&color=blue&label=views" alt=""/> -->
-<!-- <img src="https://img.shields.io/github/stars/Lin-jun-xiang?color=ff69b4" alt=""/>
-</div> -->
-## Languages
+### 📊Github Stats
+<div style="display:flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lin-jun-xiang&layout=compact&theme=panda&hide=css" width="38%" height="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lin-jun-xiang&theme=panda&show_icons=true" width="50%" height="50%" />
+</div>
+
+### Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -42,7 +21,7 @@
 ![](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-## Data Science
+### Data Science
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -53,7 +32,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-## Operation Skills
+### Operation Skills
 
 ![](https://img.shields.io/badge/-Windows-2088FF?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/-Ubuntu-E34F26?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -65,21 +44,20 @@
 <!--![](https://img.shields.io/badge/-Nginx-269539?style=for-the-badge&logo=Nginx&logoColor=white)-->
 <!--![](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)-->
 
-## Experienced Cloud Platform
+### Experienced Cloud Platform
 
 ![](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google%20cloud&logoColor=white)
 
-## Development Tools
+### Development Tools
 
 ![](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## Analytics Tools
+### Analytics Tools
 
 ![](https://img.shields.io/badge/-Google%20Analytics-d45ba7?style=for-the-badge&logo=google%20analytics&logoColor=white)
 ![](https://img.shields.io/badge/-Google%20Tag%20Manager-d45ba7?style=for-the-badge&logo=google%20tag%20manager&logoColor=white)
 
-
-## Others
+### Others
 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Magento2-E34F26?style=for-the-badge&logo=Magento&logoColor=white)
@@ -87,3 +65,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/-Multi%20Threading-71289c?style=for-the-badge&logo=multi-thread&logoColor=white)
 ![](https://img.shields.io/badge/-Multi%20Processing-71289c?style=for-the-badge&logo=multi-process&logoColor=white)
+
+<img width="30%" height="12%" src="https://github.com/Lin-jun-xiang/Lin-jun-xiang/blob/main/gif/f8d0e52d6d72c2a4507b0c323304bd86.gif?raw=true"  />
+
