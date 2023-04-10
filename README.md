@@ -46,7 +46,35 @@
 
 ### Experienced Cloud Platform
 
-![](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google%20cloud&logoColor=white)
+
+<details>
+  <summary><img align="center" src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google%20cloud&logoColor=white" /></summary>
+  <br>
+    <table>
+      <thead>
+          <tr>
+              <th align="center">Client API</th>
+              <th align="center">Compute Engine</th>
+              <th align="center">IAM</th>
+          </tr>
+      </thead>
+      <thead>
+          <tr>
+              <th align="center">Cloud Storage</th>
+              <th align="center">BigQuery</th>
+              <th align="center">DataFlow</th>
+          </tr>
+      </thead>
+      <thead>
+          <tr>
+              <th align="center">Cloud Composer</th>
+              <th align="center">Cloud Vision</th>
+              <th align="center">Cloud Run</th>
+          </tr>
+      </thead>
+    </table>
+</details>
+
 
 ### Development Tools
 
