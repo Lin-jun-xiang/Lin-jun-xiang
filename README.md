@@ -3,7 +3,7 @@
   <img align="right" width="20%" alt="" src="https://count.getloli.com/get/@:Lin-jun-xiangtheme=rule34" />
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
 
 ### 📊Github Stats
 <div style="display:flex; justify-content: space-between; align-items: center;">
