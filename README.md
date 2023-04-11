@@ -9,14 +9,14 @@
 
 ### 📊Github Stats
 <div style="display:flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lin-jun-xiang&layout=compact&theme=panda&hide=css" width="38%" height="38%" />
   <img src="https://github-readme-stats.vercel.app/api?username=Lin-jun-xiang&theme=panda&show_icons=true" width="50%" height="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lin-jun-xiang&layout=compact&theme=panda&hide=css" width="38%" height="38%" />
 </div>
 
 ### 📊Leetcode Stats
 
 <div style="display:flex; justify-content: space-between; align-items: center;">
-  <img src="https://leetcard.jacoblin.cool/Lin-jun-xiang?theme=nord" width="38%" height="38%" />
+  <img src="https://leetcard.jacoblin.cool/Lin-jun-xiang?theme=nord" width="50%" height="50%" />
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
