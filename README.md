@@ -13,6 +13,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Lin-jun-xiang&theme=panda&show_icons=true" width="50%" height="50%" />
 </div>
 
+### 📊Leetcode Stats
+
+<div style="display:flex; justify-content: space-between; align-items: center;">
+  <img src="https://leetcard.jacoblin.cool/Lin-jun-xiang?theme=nord" width="38%" height="38%" />
+</div>
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
