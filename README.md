@@ -1,4 +1,4 @@
-![](image/Bottom_up.svg)
+![](gif/Bottom_up.svg)
 
 <div style="display:flex;">
   <img align="left" width="60%" height="50%" src="https://readme-typing-svg.demolab.com/?lines=👋+Hi+there!+I'm+JunXiang.;Welcome+to+my+profile!" />
@@ -98,4 +98,4 @@
 
 <img width="30%" height="12%" src="https://github.com/Lin-jun-xiang/Lin-jun-xiang/blob/main/gif/f8d0e52d6d72c2a4507b0c323304bd86.gif?raw=true"  />
 
-![](image/Bottom_down.svg)
+![](gif/Bottom_down.svg)
