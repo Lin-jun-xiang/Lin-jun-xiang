@@ -19,6 +19,8 @@
   <img src="https://leetcard.jacoblin.cool/Lin-jun-xiang?theme=nord" width="38%" height="38%" />
 </div>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
