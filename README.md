@@ -16,7 +16,7 @@
 ### 📊Leetcode Stats
 
 <div style="display:flex; justify-content: space-between; align-items: center;">
-  <img src="https://leetcard.jacoblin.cool/Lin-jun-xiang?theme=nord" width="50%" height="50%" />
+  <img src="https://leetcard.jacoblin.cool/Lin-jun-xiang?theme=nord&ext=heatmap" width="50%" height="50%" />
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
