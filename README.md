@@ -56,7 +56,6 @@
 
 ### Experienced Cloud Platform
 
-
 <details>
   <summary><img align="center" src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google%20cloud&logoColor=white" /></summary>
   <br>
@@ -104,7 +103,7 @@
 ![](https://img.shields.io/badge/-Multi%20Threading-71289c?style=for-the-badge&logo=multi-thread&logoColor=white)
 ![](https://img.shields.io/badge/-Multi%20Processing-71289c?style=for-the-badge&logo=multi-process&logoColor=white)
 
-<img width="30%" height="12%" src="https://github.com/Lin-jun-xiang/Lin-jun-xiang/blob/main/gif/f8d0e52d6d72c2a4507b0c323304bd86.gif?raw=true"  />
+<!-- <img width="30%" height="12%" src="https://github.com/Lin-jun-xiang/Lin-jun-xiang/blob/main/gif/f8d0e52d6d72c2a4507b0c323304bd86.gif?raw=true"  /> -->
 
 <img align="center" src="gif/Bottom_down.svg" width="100%" />
 
